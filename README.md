@@ -1,4 +1,4 @@
-# node-jef2img
+# nodejs jef2img
 
 A nodejs module for converting embroidery jef file into image
 
