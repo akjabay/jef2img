@@ -14,7 +14,7 @@
     "convert"
   ],
   "author": {
-    "name": "asem saberi",
+    "name": "akjabay",
     "email": "asemhs@gmail.com"
   },
   "license": "MIT",
@@ -28,6 +28,6 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:akjabay/jef2img.git"
   }
 }
