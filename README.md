@@ -1,7 +1,7 @@
 # nodejs jef2img
 
 A nodejs module for converting embroidery jef file into image
-
+- embroidery jef file is janome embroidery files format
 ## Dependencies
 - canvas
 - jdataview
