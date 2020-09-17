@@ -1,0 +1,33 @@
+{
+  "name": "jef2img",
+  "version": "1.0.0",
+  "description": "A nodejs module for converting embroidery jef file into image",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "keywords": [
+    "embroidery to image",
+    "jef to image",
+    "janome file to image",
+    "image",
+    "convert"
+  ],
+  "author": {
+    "name": "asem saberi",
+    "email": "asemhs@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "jdataview": "^2.5.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
