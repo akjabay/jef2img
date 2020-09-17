@@ -39,7 +39,7 @@ It will return converted image file.
 { result: 'success',
   message: 
    [ { name: 'test.jpeg',
-       size: 17.275,
+       size: 22.78,
        path: '/output/test.jpeg' } ] }
 ```
 
