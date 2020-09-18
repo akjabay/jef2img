@@ -29,5 +29,6 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:akjabay/jef2img.git"
-  }
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
